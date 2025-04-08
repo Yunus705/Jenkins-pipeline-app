@@ -19,7 +19,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo 'Deploying the app...'
-                sh 'docker run -d -p 8080:3000 myapp'
+                sh 'docker run -d -p 9000:3000 myapp'
             }
         }
     }

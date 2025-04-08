@@ -44,7 +44,7 @@ Jenkins uses a declarative pipeline (`Jenkinsfile`) with the following stages:
 
 1. **Clone the Repository**
 
-git clone https://github.com/your-username/jenkins-pipeline-app.git
+git clone https://github.com/Yunus705/Jenkins-pipeline-app.git
 cd jenkins-pipeline-app
 
 Build the Docker Image:
